@@ -5,6 +5,31 @@
         <link>https://smilebigfish.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/</link>
         <description>Recent content in 生活紀錄 on 微笑大魚｜紀錄</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://smilebigfish.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-tw</language>
+        <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://smilebigfish.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>紀錄，就從這裡開始</title>
+        <link>https://smilebigfish.github.io/p/diary20221110/</link>
+        <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://smilebigfish.github.io/p/diary20221110/</guid>
+        <description>&lt;h2 id=&#34;起源&#34;&gt;起源&lt;/h2&gt;
+&lt;p&gt;這天，發現一個快速架Blog的工具&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt;，試著把它架起來看看。
+雖然以前就有類似Wordpress或Wix等快速架站的工具，想想以前第一個Blog網站也是用以上兩個架的呢。
+但是平常沒有寫日記的習慣，所以久而久之就荒廢了。
+希望透過這次，能夠刻意的練習自己寫日記的習慣。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;學習除了輸入，重要的是持續的輸出&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;目標&#34;&gt;目標&lt;/h2&gt;
+&lt;p&gt;這邊會當作是自己學習的彙整紀錄，因為前陣子突然發現了&lt;a class=&#34;link&#34; href=&#34;https://obsidian.md/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Obsidian&lt;/a&gt; 這個軟體後，開始了第二大腦的訓練，試著把學到的東西紀錄下來，建立起關連。釋放大腦的功能！
+如果有機會看能不能再把學習 Obsidian 的過程紀錄撰寫出來。
+因為Blog與Obsidian的模式都是用Markdown語法寫的，我想應該把平常的筆記在做模版匯出應該就不會造成太大的困難度，這樣也可以慢慢的把習慣養成。&lt;/p&gt;
+&lt;h2 id=&#34;計畫&#34;&gt;計畫&lt;/h2&gt;
+&lt;p&gt;短期會先把自己回鍋當前端工程師的過程紀錄一下，研究了六角的&lt;a class=&#34;link&#34; href=&#34;https://www.figma.com/file/PVb9jxjLUH8vAD0nRLX25O/%E5%89%8D%E7%AB%AF%E5%AD%B8%E7%BF%92%E5%9C%B0%E5%9C%96---%E7%9B%B4%E6%92%AD%E7%89%88?node-id=0%3A1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前端學習地圖&lt;/a&gt;後，發現自己過去所學實在太過膚淺，而且沒有持續輸出導致有種空虛感，我覺得這也是我想要從上一份工作離職的原因之一。&lt;/p&gt;
+&lt;p&gt;希望能夠紮實的瞭解工程師的生態，讓自己持續的成長。&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
